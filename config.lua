@@ -252,17 +252,17 @@ Config.TreeLocations = {
 Config.Alerts = {
     ['cancel'] = 'Cancelled',
     ['error_lumber'] = 'You do not have any lumber to do this',
-    ['error_axe'] = 'You dont have a axe to chop the tree',
+    ['error_axe'] = 'You dont have an axe to chop the tree',
     ['lumber_progressbar'] = 'Trading lumber for wooden planks',
-    ['itemamount'] = 'You are trying to process a amount that is invalid try again!',
+    ['itemamount'] = 'You are trying to process an amount that is invalid try again!',
     ['lumber_processed_trade'] = 'You successfully traded ',
     ['lumber_processed_lumberamount'] = ' Amount of Lumber for ',
-    ['lumber_processed_received'] = ' Piles of wooden panks',
+    ['lumber_processed_received'] = ' Piles of wooden planks',
     ['error_sold'] = 'You dont have the items to sell here!',
     ['successfully_sold'] = 'You have sold your items',
 
-    ["axe_check"] = 'You already have a axe',
-    ["axe_bought"] = 'You have bought a axe from the boss for $' ..LumberJob.AxePrice,
+    ["axe_check"] = 'You already have an axe',
+    ["axe_bought"] = 'You have bought an axe from the boss for $' ..LumberJob.AxePrice,
 
     ['phone_sender'] = 'Lumber Mill Supervisor',
     ['phone_subject'] = 'Job task',
